@@ -10,3 +10,5 @@ https://drive.google.com/drive/folders/1-1iPC0WTMbkJN-uGDySfBchzl3GYhwW5
 
 ### Moving negative elements and Longest palindrome in string
 https://drive.google.com/drive/folders/1IzyPQ1fDGV4peWIy0ICciBhQiDHNpV52
+
+### Binary tree and Binary Search tree
